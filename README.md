@@ -1,1 +1,1 @@
-# Hospital_Management
+This project aims to develop a Hospital Management System (HMS) to efficiently manage patient records and appointments. The system will streamline operations, improve patient care, and enhance overall hospital efficiency.
